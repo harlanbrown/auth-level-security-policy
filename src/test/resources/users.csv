@@ -1,0 +1,7 @@
+username, password, firstName, lastName, company, email
+"Administrator","Administrator","","","","devnull@nuxeo.com"
+"testuser1","","","","","devnull@nuxeo.com"
+"testuser2","","","","","devnull@nuxeo.com"
+"testuser3","","","","","devnull@nuxeo.com"
+"testuser4","","","","","devnull@nuxeo.com"
+
